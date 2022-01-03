@@ -1,0 +1,7 @@
+body {
+  overflow-x: hidden;
+}
+a {
+  cursor: pointer;
+  text-decoration: none;
+}
